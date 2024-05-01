@@ -1,3 +1,10 @@
+Live Weather App Using API of OpenWeatherMap
+ Design an intuitive and visually appealing user interface, including easy navigation for displaying weather information using React js, JavaScript, HTML,CSS
+and OpenWeatherMap API.
+Display the current temperature, weather conditions, and other relevant details for the selected city.
+Include additional information such as humidity, wind speed, and atmospheric pressure
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
