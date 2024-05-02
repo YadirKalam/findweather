@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/YadirKalam/findweather.github.io",
+  "homepage": "https://github.com/YadirKalam/findweather.github.io.git",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": { 
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
