@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YadirKalam/findweather.github.io.git/static/css/main.00aca15d.css",
-    "main.js": "/YadirKalam/findweather.github.io.git/static/js/main.f5f3f8b4.js",
-    "static/js/592.7f72a991.chunk.js": "/YadirKalam/findweather.github.io.git/static/js/592.7f72a991.chunk.js",
-    "index.html": "/YadirKalam/findweather.github.io.git/index.html",
-    "main.00aca15d.css.map": "/YadirKalam/findweather.github.io.git/static/css/main.00aca15d.css.map",
-    "main.f5f3f8b4.js.map": "/YadirKalam/findweather.github.io.git/static/js/main.f5f3f8b4.js.map",
-    "592.7f72a991.chunk.js.map": "/YadirKalam/findweather.github.io.git/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/findweather/static/css/main.00aca15d.css",
+    "main.js": "/findweather/static/js/main.0612f479.js",
+    "static/js/592.7f72a991.chunk.js": "/findweather/static/js/592.7f72a991.chunk.js",
+    "index.html": "/findweather/index.html",
+    "main.00aca15d.css.map": "/findweather/static/css/main.00aca15d.css.map",
+    "main.0612f479.js.map": "/findweather/static/js/main.0612f479.js.map",
+    "592.7f72a991.chunk.js.map": "/findweather/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00aca15d.css",
-    "static/js/main.f5f3f8b4.js"
+    "static/js/main.0612f479.js"
   ]
 }
